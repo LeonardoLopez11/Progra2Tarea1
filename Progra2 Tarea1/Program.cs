@@ -47,6 +47,11 @@ namespace Progra2_Tarea1
                     Console.WriteLine("Ingresa otro numero");
                     break;
             }
+            
+            for (int i = 1; i <= 5; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
