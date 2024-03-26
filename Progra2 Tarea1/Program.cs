@@ -52,6 +52,12 @@ namespace Progra2_Tarea1
             {
                 Console.WriteLine(i);
             }
+            int contador = 1;
+            while (contador <= 5)
+            {
+                Console.WriteLine(contador);
+                contador++;
+            }
         }
     }
 }
